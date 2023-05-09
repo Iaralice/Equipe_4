@@ -1,0 +1,38 @@
+body{
+  width: 80%;
+  max-width: 940px;
+  margin: 0;
+  box-sizing: border-box;
+  margin-left: auto;
+  margin-right: auto;
+}
+input[type="text"], input[type="email"], input[type="password"], input[type="tel"]{
+  width: 95%;
+}  
+.externo_eq4{
+  border-radius: 10px;
+  border: 1px solid lightgrey;
+  padding: 20px;
+}
+.fieldset_eq4{
+  width: 45%;
+}
+#right{
+    float: right;
+}
+h3{
+  text-align: center;
+  width: 50%;
+  color: #f76148;
+  float: right;
+  font-size: 16px;
+}
+footer{
+  margin: 20px;
+}
+p{
+  margin: 0;
+}
+#dados{
+  margin: 20px;
+}
